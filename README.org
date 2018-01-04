@@ -1,0 +1,2 @@
+Basic webapp made while learning. Getting a better background in frontend stuff as well as ruby on rails.
+Following some stuff from https://www.theodinproject.com/
